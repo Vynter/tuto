@@ -1,0 +1,13 @@
+
+    #z{
+        background-color: burlywood;
+        height: 300px;
+        width: 500px;
+        padding-top: 5%;
+    }
+    ul li{
+        margin: auto auto ;
+        text-align: center;
+        list-style: none;
+    }
+    
