@@ -12,7 +12,7 @@
         </style>
     </head>
     <body>
-    <div>
+    <div id="a">
         <h1>La liste est :</h1>
         <ul>
             <li style="color:red">numéro 1</li>
@@ -70,7 +70,7 @@
             </div>
         </ul>
     </div>
-        
+
     </body>
 
  </html>
